@@ -2,7 +2,12 @@
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Hi there! You are looking at the GitHub repo for my project portfolio. 
+Please go to the [Main Portfolio](https://capollon.github.io) to see my work.
+
+Merci!
+
+celine
 
 <img src="images/demo.gif?raw=true"/>
 
